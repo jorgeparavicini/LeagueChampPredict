@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Aatrox"/>
+<node id="Kassadin"/>
+<node id="Kayn"/>
+<node id="Katarina"/>
+<node id="Kayle"/>
+<node id="Kalista"/>
+<node id="Karthus"/>
+<node id="Karma"/>
+<node id="Jhin"/>
+<node id="Jayce"/>
+<node id="Jax"/>
+<node id="Janna"/>
+<node id="Jinx"/>
+<node id="Zyra"/>
+<node id="Ivern"/>
+<node id="Zoe"/>
+<node id="Kai'Sa"/>
+<node id="Zac"/>
+<node id="Zilean"/>
+<node id="Yuumi"/>
+<node id="Zed"/>
+<node id="Zeri"/>
+<node id="Yorick"/>
+<node id="Ziggs"/>
+<node id="Jarvan IV"/>
+<node id="Yone"/>
+<node id="Xerath"/>
+<node id="Wukong"/>
+<node id="Xayah"/>
+<node id="Warwick"/>
+<node id="Yasuo"/>
+<node id="Volibear"/>
+<node id="Vladimir"/>
+<node id="Viktor"/>
+<node id="Varus"/>
+<node id="Vayne"/>
+<node id="Veigar"/>
+<node id="Viego"/>
+<node id="Vi"/>
+<node id="Xin Zhao"/>
+<node id="Vex"/>
+<node id="Twitch"/>
+<node id="Udyr"/>
+<node id="Urgot"/>
+<node id="Tryndamere"/>
+<node id="Trundle"/>
+<node id="Tristana"/>
+<node id="Talon"/>
+<node id="Thresh"/>
+<node id="Teemo"/>
+<node id="Taric"/>
+<node id="Taliyah"/>
+<node id="Vel'Koz"/>
+<node id="Syndra"/>
+<node id="Twisted Fate"/>
+<node id="Sylas"/>
+<node id="Swain"/>
+<node id="Skarner"/>
+<node id="Sona"/>
+<node id="Tahm Kench"/>
+<node id="Soraka"/>
+<node id="Sivir"/>
+<node id="Sion"/>
+<node id="Shyvana"/>
+<node id="Singed"/>
+<node id="Shen"/>
+<node id="Seraphine"/>
+<node id="Shaco"/>
+<node id="Sett"/>
+<node id="Sejuani"/>
+<node id="Samira"/>
+<node id="Ryze"/>
+<node id="Rell"/>
+<node id="Rumble"/>
+<node id="Riven"/>
+<node id="Rengar"/>
+<node id="Renekton"/>
+<node id="Rammus"/>
+<node id="Rakan"/>
+<node id="Pyke"/>
+<node id="Quinn"/>
+<node id="Pantheon"/>
+<node id="Qiyana"/>
+<node id="Poppy"/>
+<node id="Ornn"/>
+<node id="Orianna"/>
+<node id="Olaf"/>
+<node id="Nocturne"/>
+<node id="Nidalee"/>
+<node id="Rek'Sai"/>
+<node id="Nunu &amp; Willump"/>
+<node id="Morgana"/>
+<node id="Nasus"/>
+<node id="Nautilus"/>
+<node id="Neeko"/>
+<node id="Nami"/>
+<node id="Mordekaiser"/>
+<node id="Maokai"/>
+<node id="Malzahar"/>
+<node id="Malphite"/>
+<node id="Lux"/>
+<node id="Lulu"/>
+<node id="Lucian"/>
+<node id="Lissandra"/>
+<node id="Leona"/>
+<node id="Lillia"/>
+<node id="Lee Sin"/>
+<node id="LeBlanc"/>
+<node id="Miss Fortune"/>
+<node id="Kled &amp; Skaarl"/>
+<node id="Master Yi"/>
+<node id="Kindred"/>
+<node id="Kennen"/>
+<node id="Irelia"/>
+<node id="Heimerdinger"/>
+<node id="Illaoi"/>
+<node id="Hecarim"/>
+<node id="Gwen"/>
+<node id="Graves"/>
+<node id="Gragas"/>
+<node id="Gnar"/>
+<node id="Garen"/>
+<node id="Gangplank"/>
+<node id="Kog'Maw"/>
+<node id="Renata Glasc"/>
+<node id="Kha'Zix"/>
+<node id="Fizz"/>
+<node id="Ezreal"/>
+<node id="Evelynn"/>
+<node id="Fiora"/>
+<node id="Elise"/>
+<node id="Galio"/>
+<node id="Fiddlesticks"/>
+<node id="Ekko"/>
+<node id="Diana"/>
+<node id="Draven"/>
+<node id="Darius"/>
+<node id="Corki"/>
+<node id="Cassiopeia"/>
+<node id="Camille"/>
+<node id="Cho'Gath"/>
+<node id="Senna"/>
+<node id="Dr. Mundo"/>
+<node id="Blitzcrank"/>
+<node id="Bard"/>
+<node id="Caitlyn"/>
+<node id="Azir"/>
+<node id="Braum"/>
+<node id="Brand"/>
+<node id="Ashe"/>
+<node id="Anivia"/>
+<node id="Akali"/>
+<node id="Alistar"/>
+<node id="Aphelios"/>
+<node id="Annie"/>
+<node id="Ahri"/>
+<node id="Amumu"/>
+<node id="Akshan"/>
+<node id="Aurelion Sol"/>
+<edge source="Aatrox" target="Garen"/>
+<edge source="Kassadin" target="Fizz"/>
+<edge source="Kassadin" target="Ekko"/>
+<edge source="Kassadin" target="Diana"/>
+<edge source="Kayn" target="Jax"/>
+<edge source="Kayn" target="Shaco"/>
+<edge source="Kayn" target="Nocturne"/>
+<edge source="Kayn" target="Master Yi"/>
+<edge source="Kayn" target="Kha'Zix"/>
+<edge source="Kayle" target="Gangplank"/>
+<edge source="Kalista" target="Jhin"/>
+<edge source="Kalista" target="Jinx"/>
+<edge source="Kalista" target="Zeri"/>
+<edge source="Kalista" target="Xayah"/>
+<edge source="Kalista" target="Varus"/>
+<edge source="Kalista" target="Vayne"/>
+<edge source="Kalista" target="Twitch"/>
+<edge source="Kalista" target="Sivir"/>
+<edge source="Kalista" target="Samira"/>
+<edge source="Kalista" target="Lucian"/>
+<edge source="Kalista" target="Kog'Maw"/>
+<edge source="Kalista" target="Draven"/>
+<edge source="Kalista" target="Senna"/>
+<edge source="Kalista" target="Aphelios"/>
+<edge source="Karthus" target="Taliyah"/>
+<edge source="Karma" target="Janna"/>
+<edge source="Karma" target="Yuumi"/>
+<edge source="Karma" target="Sona"/>
+<edge source="Karma" target="Soraka"/>
+<edge source="Karma" target="Seraphine"/>
+<edge source="Karma" target="Nami"/>
+<edge source="Karma" target="Lux"/>
+<edge source="Karma" target="Lulu"/>
+<edge source="Karma" target="Renata Glasc"/>
+<edge source="Karma" target="Brand"/>
+<edge source="Jhin" target="Jinx"/>
+<edge source="Jhin" target="Zeri"/>
+<edge source="Jhin" target="Xayah"/>
+<edge source="Jhin" target="Varus"/>
+<edge source="Jhin" target="Vayne"/>
+<edge source="Jhin" target="Twitch"/>
+<edge source="Jhin" target="Tristana"/>
+<edge source="Jhin" target="Sivir"/>
+<edge source="Jhin" target="Samira"/>
+<edge source="Jhin" target="Lucian"/>
+<edge source="Jhin" target="Miss Fortune"/>
+<edge source="Jhin" target="Kog'Maw"/>
+<edge source="Jhin" target="Ezreal"/>
+<edge source="Jhin" target="Draven"/>
+<edge source="Jhin" target="Senna"/>
+<edge source="Jhin" target="Caitlyn"/>
+<edge source="Jhin" target="Ashe"/>
+<edge source="Jhin" target="Aphelios"/>
+<edge source="Jax" target="Master Yi"/>
+<edge source="Jax" target="Fiora"/>
+<edge source="Janna" target="Yuumi"/>
+<edge source="Janna" target="Sona"/>
+<edge source="Janna" target="Soraka"/>
+<edge source="Janna" target="Seraphine"/>
+<edge source="Janna" target="Nami"/>
+<edge source="Janna" target="Lulu"/>
+<edge source="Janna" target="Renata Glasc"/>
+<edge source="Jinx" target="Zeri"/>
+<edge source="Jinx" target="Xayah"/>
+<edge source="Jinx" target="Varus"/>
+<edge source="Jinx" target="Vayne"/>
+<edge source="Jinx" target="Twitch"/>
+<edge source="Jinx" target="Tristana"/>
+<edge source="Jinx" target="Sivir"/>
+<edge source="Jinx" target="Samira"/>
+<edge source="Jinx" target="Lucian"/>
+<edge source="Jinx" target="Miss Fortune"/>
+<edge source="Jinx" target="Kog'Maw"/>
+<edge source="Jinx" target="Ezreal"/>
+<edge source="Jinx" target="Draven"/>
+<edge source="Jinx" target="Senna"/>
+<edge source="Jinx" target="Caitlyn"/>
+<edge source="Jinx" target="Ashe"/>
+<edge source="Jinx" target="Aphelios"/>
+<edge source="Zyra" target="Rakan"/>
+<edge source="Zyra" target="Morgana"/>
+<edge source="Zyra" target="Bard"/>
+<edge source="Zoe" target="Veigar"/>
+<edge source="Zoe" target="Vex"/>
+<edge source="Zoe" target="Syndra"/>
+<edge source="Zoe" target="Twisted Fate"/>
+<edge source="Zoe" target="Orianna"/>
+<edge source="Zoe" target="Lissandra"/>
+<edge source="Zoe" target="LeBlanc"/>
+<edge source="Zoe" target="Ahri"/>
+<edge source="Zilean" target="Heimerdinger"/>
+<edge source="Zilean" target="Azir"/>
+<edge source="Yuumi" target="Sona"/>
+<edge source="Yuumi" target="Soraka"/>
+<edge source="Yuumi" target="Seraphine"/>
+<edge source="Yuumi" target="Nami"/>
+<edge source="Yuumi" target="Lulu"/>
+<edge source="Yuumi" target="Renata Glasc"/>
+<edge source="Zed" target="Akali"/>
+<edge source="Zeri" target="Xayah"/>
+<edge source="Zeri" target="Varus"/>
+<edge source="Zeri" target="Vayne"/>
+<edge source="Zeri" target="Twitch"/>
+<edge source="Zeri" target="Tristana"/>
+<edge source="Zeri" target="Sivir"/>
+<edge source="Zeri" target="Samira"/>
+<edge source="Zeri" target="Lucian"/>
+<edge source="Zeri" target="Miss Fortune"/>
+<edge source="Zeri" target="Kog'Maw"/>
+<edge source="Zeri" target="Ezreal"/>
+<edge source="Zeri" target="Draven"/>
+<edge source="Zeri" target="Senna"/>
+<edge source="Zeri" target="Caitlyn"/>
+<edge source="Zeri" target="Ashe"/>
+<edge source="Zeri" target="Aphelios"/>
+<edge source="Yorick" target="Volibear"/>
+<edge source="Yorick" target="Nasus"/>
+<edge source="Yorick" target="Illaoi"/>
+<edge source="Yorick" target="Darius"/>
+<edge source="Ziggs" target="Xerath"/>
+<edge source="Ziggs" target="Vel'Koz"/>
+<edge source="Ziggs" target="Lux"/>
+<edge source="Jarvan IV" target="Wukong"/>
+<edge source="Jarvan IV" target="Warwick"/>
+<edge source="Jarvan IV" target="Vi"/>
+<edge source="Jarvan IV" target="Xin Zhao"/>
+<edge source="Jarvan IV" target="Skarner"/>
+<edge source="Jarvan IV" target="Olaf"/>
+<edge source="Jarvan IV" target="Hecarim"/>
+<edge source="Xerath" target="Vel'Koz"/>
+<edge source="Xerath" target="Lux"/>
+<edge source="Wukong" target="Warwick"/>
+<edge source="Wukong" target="Vi"/>
+<edge source="Wukong" target="Xin Zhao"/>
+<edge source="Wukong" target="Skarner"/>
+<edge source="Wukong" target="Pantheon"/>
+<edge source="Wukong" target="Olaf"/>
+<edge source="Wukong" target="Irelia"/>
+<edge source="Wukong" target="Hecarim"/>
+<edge source="Xayah" target="Varus"/>
+<edge source="Xayah" target="Vayne"/>
+<edge source="Xayah" target="Twitch"/>
+<edge source="Xayah" target="Tristana"/>
+<edge source="Xayah" target="Sivir"/>
+<edge source="Xayah" target="Samira"/>
+<edge source="Xayah" target="Lucian"/>
+<edge source="Xayah" target="Miss Fortune"/>
+<edge source="Xayah" target="Kog'Maw"/>
+<edge source="Xayah" target="Ezreal"/>
+<edge source="Xayah" target="Draven"/>
+<edge source="Xayah" target="Senna"/>
+<edge source="Xayah" target="Caitlyn"/>
+<edge source="Xayah" target="Ashe"/>
+<edge source="Xayah" target="Aphelios"/>
+<edge source="Warwick" target="Vi"/>
+<edge source="Warwick" target="Xin Zhao"/>
+<edge source="Warwick" target="Skarner"/>
+<edge source="Warwick" target="Olaf"/>
+<edge source="Warwick" target="Hecarim"/>
+<edge source="Volibear" target="Udyr"/>
+<edge source="Volibear" target="Trundle"/>
+<edge source="Volibear" target="Nasus"/>
+<edge source="Volibear" target="Illaoi"/>
+<edge source="Volibear" target="Darius"/>
+<edge source="Viktor" target="Swain"/>
+<edge source="Viktor" target="Ryze"/>
+<edge source="Viktor" target="Cassiopeia"/>
+<edge source="Viktor" target="Anivia"/>
+<edge source="Viktor" target="Aurelion Sol"/>
+<edge source="Varus" target="Vayne"/>
+<edge source="Varus" target="Twitch"/>
+<edge source="Varus" target="Tristana"/>
+<edge source="Varus" target="Sivir"/>
+<edge source="Varus" target="Samira"/>
+<edge source="Varus" target="Lucian"/>
+<edge source="Varus" target="Miss Fortune"/>
+<edge source="Varus" target="Kog'Maw"/>
+<edge source="Varus" target="Ezreal"/>
+<edge source="Varus" target="Draven"/>
+<edge source="Varus" target="Senna"/>
+<edge source="Varus" target="Caitlyn"/>
+<edge source="Varus" target="Ashe"/>
+<edge source="Varus" target="Aphelios"/>
+<edge source="Vayne" target="Twitch"/>
+<edge source="Vayne" target="Tristana"/>
+<edge source="Vayne" target="Sivir"/>
+<edge source="Vayne" target="Samira"/>
+<edge source="Vayne" target="Lucian"/>
+<edge source="Vayne" target="Miss Fortune"/>
+<edge source="Vayne" target="Kog'Maw"/>
+<edge source="Vayne" target="Ezreal"/>
+<edge source="Vayne" target="Draven"/>
+<edge source="Vayne" target="Senna"/>
+<edge source="Vayne" target="Caitlyn"/>
+<edge source="Vayne" target="Ashe"/>
+<edge source="Vayne" target="Aphelios"/>
+<edge source="Veigar" target="Vex"/>
+<edge source="Veigar" target="Syndra"/>
+<edge source="Veigar" target="Twisted Fate"/>
+<edge source="Veigar" target="Orianna"/>
+<edge source="Veigar" target="Neeko"/>
+<edge source="Veigar" target="Lux"/>
+<edge source="Veigar" target="Lissandra"/>
+<edge source="Veigar" target="LeBlanc"/>
+<edge source="Veigar" target="Annie"/>
+<edge source="Veigar" target="Ahri"/>
+<edge source="Vi" target="Xin Zhao"/>
+<edge source="Vi" target="Skarner"/>
+<edge source="Vi" target="Olaf"/>
+<edge source="Vi" target="Hecarim"/>
+<edge source="Xin Zhao" target="Skarner"/>
+<edge source="Xin Zhao" target="Olaf"/>
+<edge source="Xin Zhao" target="Hecarim"/>
+<edge source="Vex" target="Syndra"/>
+<edge source="Vex" target="Twisted Fate"/>
+<edge source="Vex" target="Orianna"/>
+<edge source="Vex" target="Neeko"/>
+<edge source="Vex" target="Lux"/>
+<edge source="Vex" target="Lissandra"/>
+<edge source="Vex" target="LeBlanc"/>
+<edge source="Vex" target="Annie"/>
+<edge source="Vex" target="Ahri"/>
+<edge source="Twitch" target="Tristana"/>
+<edge source="Twitch" target="Sivir"/>
+<edge source="Twitch" target="Samira"/>
+<edge source="Twitch" target="Lucian"/>
+<edge source="Twitch" target="Miss Fortune"/>
+<edge source="Twitch" target="Kog'Maw"/>
+<edge source="Twitch" target="Ezreal"/>
+<edge source="Twitch" target="Draven"/>
+<edge source="Twitch" target="Senna"/>
+<edge source="Twitch" target="Caitlyn"/>
+<edge source="Twitch" target="Ashe"/>
+<edge source="Twitch" target="Aphelios"/>
+<edge source="Udyr" target="Trundle"/>
+<edge source="Tristana" target="Sivir"/>
+<edge source="Tristana" target="Samira"/>
+<edge source="Tristana" target="Lucian"/>
+<edge source="Tristana" target="Miss Fortune"/>
+<edge source="Tristana" target="Kog'Maw"/>
+<edge source="Tristana" target="Ezreal"/>
+<edge source="Tristana" target="Draven"/>
+<edge source="Tristana" target="Senna"/>
+<edge source="Tristana" target="Caitlyn"/>
+<edge source="Tristana" target="Ashe"/>
+<edge source="Talon" target="Pyke"/>
+<edge source="Talon" target="Qiyana"/>
+<edge source="Talon" target="Nocturne"/>
+<edge source="Teemo" target="Quinn"/>
+<edge source="Taric" target="Poppy"/>
+<edge source="Vel'Koz" target="Lux"/>
+<edge source="Syndra" target="Twisted Fate"/>
+<edge source="Syndra" target="Orianna"/>
+<edge source="Syndra" target="Neeko"/>
+<edge source="Syndra" target="Lux"/>
+<edge source="Syndra" target="Lissandra"/>
+<edge source="Syndra" target="LeBlanc"/>
+<edge source="Syndra" target="Annie"/>
+<edge source="Syndra" target="Ahri"/>
+<edge source="Twisted Fate" target="Orianna"/>
+<edge source="Twisted Fate" target="Neeko"/>
+<edge source="Twisted Fate" target="Lux"/>
+<edge source="Twisted Fate" target="Lissandra"/>
+<edge source="Twisted Fate" target="LeBlanc"/>
+<edge source="Twisted Fate" target="Annie"/>
+<edge source="Twisted Fate" target="Ahri"/>
+<edge source="Sylas" target="Gwen"/>
+<edge source="Swain" target="Ryze"/>
+<edge source="Swain" target="Malzahar"/>
+<edge source="Swain" target="Cassiopeia"/>
+<edge source="Swain" target="Anivia"/>
+<edge source="Swain" target="Aurelion Sol"/>
+<edge source="Skarner" target="Olaf"/>
+<edge source="Skarner" target="Hecarim"/>
+<edge source="Sona" target="Soraka"/>
+<edge source="Sona" target="Seraphine"/>
+<edge source="Sona" target="Nami"/>
+<edge source="Sona" target="Lulu"/>
+<edge source="Sona" target="Renata Glasc"/>
+<edge source="Tahm Kench" target="Galio"/>
+<edge source="Tahm Kench" target="Braum"/>
+<edge source="Soraka" target="Seraphine"/>
+<edge source="Soraka" target="Nami"/>
+<edge source="Soraka" target="Lulu"/>
+<edge source="Soraka" target="Renata Glasc"/>
+<edge source="Sivir" target="Samira"/>
+<edge source="Sivir" target="Lucian"/>
+<edge source="Sivir" target="Miss Fortune"/>
+<edge source="Sivir" target="Kog'Maw"/>
+<edge source="Sivir" target="Ezreal"/>
+<edge source="Sivir" target="Draven"/>
+<edge source="Sivir" target="Senna"/>
+<edge source="Sivir" target="Caitlyn"/>
+<edge source="Sivir" target="Ashe"/>
+<edge source="Sivir" target="Aphelios"/>
+<edge source="Sion" target="Ornn"/>
+<edge source="Singed" target="Cho'Gath"/>
+<edge source="Seraphine" target="Nami"/>
+<edge source="Seraphine" target="Lux"/>
+<edge source="Seraphine" target="Lulu"/>
+<edge source="Seraphine" target="Renata Glasc"/>
+<edge source="Seraphine" target="Brand"/>
+<edge source="Shaco" target="Pyke"/>
+<edge source="Shaco" target="Nocturne"/>
+<edge source="Shaco" target="Kha'Zix"/>
+<edge source="Sejuani" target="Nunu &amp; Willump"/>
+<edge source="Sejuani" target="Gragas"/>
+<edge source="Sejuani" target="Amumu"/>
+<edge source="Samira" target="Lucian"/>
+<edge source="Samira" target="Miss Fortune"/>
+<edge source="Samira" target="Kog'Maw"/>
+<edge source="Samira" target="Ezreal"/>
+<edge source="Samira" target="Draven"/>
+<edge source="Samira" target="Senna"/>
+<edge source="Samira" target="Caitlyn"/>
+<edge source="Samira" target="Ashe"/>
+<edge source="Samira" target="Aphelios"/>
+<edge source="Ryze" target="Malzahar"/>
+<edge source="Ryze" target="Cassiopeia"/>
+<edge source="Ryze" target="Anivia"/>
+<edge source="Ryze" target="Aurelion Sol"/>
+<edge source="Rell" target="Nautilus"/>
+<edge source="Rell" target="Maokai"/>
+<edge source="Rell" target="Malphite"/>
+<edge source="Rell" target="Alistar"/>
+<edge source="Rakan" target="Morgana"/>
+<edge source="Rakan" target="Bard"/>
+<edge source="Pyke" target="Qiyana"/>
+<edge source="Pyke" target="Nocturne"/>
+<edge source="Pantheon" target="Olaf"/>
+<edge source="Pantheon" target="Irelia"/>
+<edge source="Pantheon" target="Hecarim"/>
+<edge source="Orianna" target="Neeko"/>
+<edge source="Orianna" target="Lux"/>
+<edge source="Orianna" target="Lissandra"/>
+<edge source="Orianna" target="LeBlanc"/>
+<edge source="Orianna" target="Annie"/>
+<edge source="Orianna" target="Ahri"/>
+<edge source="Olaf" target="Irelia"/>
+<edge source="Olaf" target="Hecarim"/>
+<edge source="Nocturne" target="Kha'Zix"/>
+<edge source="Nidalee" target="Fiddlesticks"/>
+<edge source="Nunu &amp; Willump" target="Malphite"/>
+<edge source="Nunu &amp; Willump" target="Gragas"/>
+<edge source="Nunu &amp; Willump" target="Amumu"/>
+<edge source="Nasus" target="Illaoi"/>
+<edge source="Nasus" target="Darius"/>
+<edge source="Nautilus" target="Maokai"/>
+<edge source="Nautilus" target="Malphite"/>
+<edge source="Nautilus" target="Alistar"/>
+<edge source="Neeko" target="Lux"/>
+<edge source="Neeko" target="Lissandra"/>
+<edge source="Neeko" target="LeBlanc"/>
+<edge source="Neeko" target="Annie"/>
+<edge source="Neeko" target="Ahri"/>
+<edge source="Nami" target="Lulu"/>
+<edge source="Nami" target="Renata Glasc"/>
+<edge source="Maokai" target="Malphite"/>
+<edge source="Maokai" target="Alistar"/>
+<edge source="Malphite" target="Alistar"/>
+<edge source="Lux" target="Lissandra"/>
+<edge source="Lux" target="LeBlanc"/>
+<edge source="Lux" target="Brand"/>
+<edge source="Lux" target="Annie"/>
+<edge source="Lux" target="Ahri"/>
+<edge source="Lulu" target="Renata Glasc"/>
+<edge source="Lucian" target="Miss Fortune"/>
+<edge source="Lucian" target="Kog'Maw"/>
+<edge source="Lucian" target="Ezreal"/>
+<edge source="Lucian" target="Draven"/>
+<edge source="Lucian" target="Corki"/>
+<edge source="Lucian" target="Senna"/>
+<edge source="Lucian" target="Caitlyn"/>
+<edge source="Lucian" target="Ashe"/>
+<edge source="Lucian" target="Aphelios"/>
+<edge source="Lucian" target="Akshan"/>
+<edge source="Lissandra" target="LeBlanc"/>
+<edge source="Lissandra" target="Annie"/>
+<edge source="Lissandra" target="Ahri"/>
+<edge source="LeBlanc" target="Annie"/>
+<edge source="LeBlanc" target="Ahri"/>
+<edge source="Miss Fortune" target="Kog'Maw"/>
+<edge source="Miss Fortune" target="Ezreal"/>
+<edge source="Miss Fortune" target="Draven"/>
+<edge source="Miss Fortune" target="Senna"/>
+<edge source="Miss Fortune" target="Caitlyn"/>
+<edge source="Miss Fortune" target="Ashe"/>
+<edge source="Irelia" target="Hecarim"/>
+<edge source="Irelia" target="Camille"/>
+<edge source="Heimerdinger" target="Azir"/>
+<edge source="Illaoi" target="Darius"/>
+<edge source="Hecarim" target="Camille"/>
+<edge source="Gragas" target="Amumu"/>
+<edge source="Kog'Maw" target="Ezreal"/>
+<edge source="Kog'Maw" target="Draven"/>
+<edge source="Kog'Maw" target="Senna"/>
+<edge source="Kog'Maw" target="Caitlyn"/>
+<edge source="Kog'Maw" target="Ashe"/>
+<edge source="Kog'Maw" target="Aphelios"/>
+<edge source="Fizz" target="Ekko"/>
+<edge source="Fizz" target="Diana"/>
+<edge source="Ezreal" target="Draven"/>
+<edge source="Ezreal" target="Senna"/>
+<edge source="Ezreal" target="Caitlyn"/>
+<edge source="Ezreal" target="Ashe"/>
+<edge source="Evelynn" target="Ekko"/>
+<edge source="Evelynn" target="Diana"/>
+<edge source="Galio" target="Braum"/>
+<edge source="Draven" target="Senna"/>
+<edge source="Draven" target="Caitlyn"/>
+<edge source="Draven" target="Ashe"/>
+<edge source="Draven" target="Aphelios"/>
+<edge source="Corki" target="Akshan"/>
+<edge source="Cassiopeia" target="Anivia"/>
+<edge source="Cassiopeia" target="Aurelion Sol"/>
+<edge source="Senna" target="Caitlyn"/>
+<edge source="Senna" target="Ashe"/>
+<edge source="Senna" target="Aphelios"/>
+<edge source="Caitlyn" target="Ashe"/>
+<edge source="Anivia" target="Aurelion Sol"/>
+<edge source="Annie" target="Ahri"/>
+</graph></graphml>
