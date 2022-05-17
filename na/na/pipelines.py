@@ -6,6 +6,7 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
+from models.player import Summoner
 import networkx as nx
 import json
 
@@ -75,11 +76,11 @@ class MasteryPipeline:
             self.masteries[item.champion] = {'Iron': [], 'Bronze': [], 'Silver': [], 'Gold': [], 'Platinum': [],
                                              'Diamond': [], 'Master': [], 'GrandMaster': [], 'Challenger': []}
 
-        self.masteries[item.champion][item.tier].append(item.name)
+        self.masteries[item.champion][item.tier].append({"name": item.name, "region": item.region})
 
     def close_spider(self, spider):
         if 'mastery_pipeline' not in getattr(spider, 'pipelines'):
             return
 
-        with open('champion_mastery.json', 'w') as file:
-            json.dump(self.masteries, file)
+        with open('champion_mastery.json', 'w', encoding='utf8') as file:
+            json.dump(self.masteries, file, ensure_ascii=False)

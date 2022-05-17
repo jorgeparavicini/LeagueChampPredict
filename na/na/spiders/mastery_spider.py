@@ -5,7 +5,7 @@ import re
 
 class MasterySpider(scrapy.Spider):
     name = "mastery"
-    nr_pages = 50 
+    nr_pages = 50
     pipelines = ['mastery_pipeline']
     start_urls = [
         "https://leagueoflegends.fandom.com/wiki/List_of_champions"
@@ -30,9 +30,14 @@ class MasterySpider(scrapy.Spider):
     def parse_champion_page(self, response):
         player_list = response.css("table.summonerRankingsTable tr")[1:]
         for player in player_list:
-            name = player.css(".name a::text").get().strip()
+            name = player.css(".name a::text").get()
+            if not name:
+                continue
+            name = name.strip()
             tier = player.css(".hide-for-small-down::text").get().strip().split()[0]
+            region = player.css("a.championBlock-bottom::text").get().strip()
             if tier == '-':
                 continue
-            yield Player(response.meta.get('champion'), name, tier)
+            yield Player(response.meta.get('champion'), name, tier, region)
+
 
