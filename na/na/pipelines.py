@@ -9,6 +9,7 @@ from itemadapter import ItemAdapter
 from models.player import Summoner
 import networkx as nx
 import json
+import dataclasses
 
 
 class ChampionPipeline:
@@ -81,6 +82,36 @@ class MasteryPipeline:
     def close_spider(self, spider):
         if 'mastery_pipeline' not in getattr(spider, 'pipelines'):
             return
-
         with open('champion_mastery.json', 'w', encoding='utf8') as file:
             json.dump(self.masteries, file, ensure_ascii=False)
+
+
+class TopMasteryPipeline:
+    def __init__(self):
+        self.masteries = {}
+
+    def process_item(self, item, spider):
+        if 'top_mastery-pipeline' not in getattr(spider, 'pipelines'):
+            return item
+
+        if item.champion not in self.masteries:
+            if self.masteries:
+                self.save()
+            self.masteries[item.champion] = {'Iron': [], 'Bronze': [], 'Silver': [], 'Gold': [], 'Platinum': [],
+                                             'Diamond': [], 'Master': [], 'GrandMaster': [], 'Challenger': []}
+
+        self.masteries[item.champion][item.rank].append(dataclasses.asdict(item))
+
+
+    def close_spider(self, spider):
+        if 'top_mastery-pipeline' not in getattr(spider, 'pipelines'):
+            return
+
+        self.save()
+
+
+    def save(self):
+        print("SAVING")
+        with open('top_champion_mastery.json', 'w', encoding='utf8') as file:
+            json.dump(self.masteries, file, ensure_ascii=False)
+

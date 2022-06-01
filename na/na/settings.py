@@ -64,7 +64,8 @@ ROBOTSTXT_OBEY = False
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'na.pipelines.ChampionPipeline': 300,
-    'na.pipelines.MasteryPipeline': 400
+    'na.pipelines.MasteryPipeline': 400,
+    'na.pipelines.TopMasteryPipeline': 500
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
