@@ -5,8 +5,6 @@
 
 
 # useful for handling different item types with a single interface
-from itemadapter import ItemAdapter
-from models.player import Summoner
 import networkx as nx
 import json
 import dataclasses
@@ -88,7 +86,8 @@ class MasteryPipeline:
 
 class TopMasteryPipeline:
     def __init__(self):
-        self.masteries = {}
+        with open('top_champion_mastery.json', encoding='utf-8') as file:
+            self.masteries = json.load(file)
 
     def process_item(self, item, spider):
         if 'top_mastery-pipeline' not in getattr(spider, 'pipelines'):
